@@ -1,2 +1,4 @@
 # National-Centre-for-Pharmacoeconomics-NCPE-Ireland-Drug-Exploratory-Analysis-and-Data-Cleaning
-NCPE ireland Drug Data cleaning and Exploration is done to understand drugs that are specific to Ireland, sent for rapid reviews per year before coming to the market for actual use, types of drugs, manufactures that submitted the most number of drugs for NCPE approval, drugs count for immnunization along with list of immunization drugs.
+NCPE ireland drug data is scraped from http://www.ncpe.ie/ for the year 2018. 
+Data cleaning is done to avoid NULL values, duplicate entries and incomplete data. 
+Exploratory data analysis(EDA) is done to understand drugs that are specific to Ireland, given for rapid reviews per year before coming to the market for actual use, types of drugs sent for rapid review, manufactures that submitted the most number of drugs for NCPE approval, Total drugs for immnunization along with the list.

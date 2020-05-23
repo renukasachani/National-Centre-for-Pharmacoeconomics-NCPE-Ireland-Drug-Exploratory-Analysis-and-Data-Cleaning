@@ -1,4 +1,4 @@
-# National-Centre-for-Pharmacoeconomics-NCPE-Ireland-Drug-Exploratory-Analysis-and-Data-Cleaning
+# NCPE-Ireland-Drug-Exploratory-Analysis-and-Data-Cleaning
 NCPE ireland drug data is scraped from http://www.ncpe.ie/ for the year 2018-2019. The Scraped data is stored on MySql database.  
 
 Data cleaning is done using regex python package to avoid NULL values, irrelevant, duplicate entries and incomplete data. 
